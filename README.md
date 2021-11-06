@@ -21,7 +21,7 @@ A quick render of the iconic tram tracks on the Hong Kong Island. It was mostly 
 
 🗺 Data: iB5000 Rail Line, Lands Department Hong Kong.
 
-🔨🔧 Tools and Steps: QGIS, hillshade styling for DEM, line styling for rail
+🔨🔧 Tools and Steps: QGIS, line styling for rail
 
 ## || Day 3 || Polygons - Shatin MTR Voronois
 ![Shatin MTR Voronois](maps/day3/Twitter.png)
@@ -40,3 +40,13 @@ Summary of number of buildings grouped into hexagons in Hong Kong, each hexagon 
 🗺 Data: iB5000 Buildings Point, Lands Department Hong Kong. Digital Terrain Model, Lands Department Hong Kong.
 
 🔨🔧 Tools and Steps: QGIS, create grid, summarize building points in hexagon, calculate max elevation from DEM, change to gradual symbols and add border layer to simple fill.
+
+
+## || Day 6 || Red - Forest Loss in Hong Kong
+![Forest Loss in Hong Kong](maps/day6/forest_loss.gif)
+
+Simple time series animation of forest loss in Hong Kong per year. Hong Kong is a small place with large green cover, at least 40% of our land is classified as country parks. 
+
+🗺 Data: [GLAD - Global Forest Change](https://glad.earthengine.app/)
+
+🔨🔧 Tools and Steps: Extract raster from ROI, create summary of no. of pixels table by year, set rule based symbology, create Atlas and control symbology by year value.
