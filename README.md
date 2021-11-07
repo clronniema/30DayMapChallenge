@@ -60,3 +60,37 @@ Simple time series animation of forest loss in Hong Kong per year. Hong Kong is 
 🔨🔧 Tools and Steps: Extract raster from ROI, create summary of no. of pixels table by year, set rule based symbology, create Atlas and control symbology by year value.
 
 [Link to Tweet](https://twitter.com/clronniema/status/1457017999190151169)
+
+## || Day 7 || Green - Green Land Cover in Hong Kong
+![Green Land Cover](maps/day7/Twitter.png)
+
+Displaying GLAD forest cover data with simple symbology. Value of raster pixel represents percentage of area covered by tree canopy of 5m or higher. I did not realise how much green there is in Hong Kong.
+
+🗺 Data: [GLAD - Global Forest Change](https://glad.earthengine.app/)
+
+🔨🔧 Tools and Steps: Extract raster from ROI, set graduated fill with green as color ramp.
+
+[Link to Tweet](https://twitter.com/clronniema/status/1457256511734906881)
+
+
+## || Day 8 || Blue - Pencil Contours on Graph Paper
+![Pencil Contours on Graph Paper](maps/day8/Twitter.png)
+
+Twisting the theme, using blue as an ordinary piece of paper I've used as a student to trace a map. The shown area is Tung Ping Chau of Hong Kong, which is a small island that is a local tourist attraction. Refer to this [QGIS pencil styles repository](https://github.com/AsgerPetersen/qgis_styles/tree/master/pencil_styles). Huge credits to Asger Petersen for making this available.
+
+🗺 Data: iB5000 Contours Lands Department
+
+🔨🔧 Tools and Steps: Apply pencil style and adjust, simple! 
+
+[Link to Tweet]()
+
+## || Day 9 || Monochrome - Building Heights in Central
+![Building Heights in Central](maps/day9/Twitter.png)
+
+A simple take on the monochrome topic, displaying building heights from low to high. Perfect for an area with low buildings and tallest skyscrapers in the world.
+
+🗺 Data: iB1000 Buildings Lands Department
+
+🔨🔧 Tools and Steps: Filter unwanted building types and filter buildings too small, apply graduated symbology.
+
+[Link to Tweet]()
