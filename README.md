@@ -82,7 +82,7 @@ Twisting the theme, using blue as an ordinary piece of paper I've used as a stud
 
 🔨🔧 Tools and Steps: Apply pencil style and adjust, simple! 
 
-[Link to Tweet]()
+[Link to Tweet](https://twitter.com/clronniema/status/1457618894068326404)
 
 ## || Day 9 || Monochrome - Building Heights in Central
 ![Building Heights in Central](maps/day9/Twitter.png)
@@ -93,4 +93,15 @@ A simple take on the monochrome topic, displaying building heights from low to h
 
 🔨🔧 Tools and Steps: Filter unwanted building types and filter buildings too small, apply graduated symbology.
 
-[Link to Tweet]()
+[Link to Tweet](https://twitter.com/clronniema/status/1457981290842497030)
+
+## || Day 9 || Mapping with New Tool - Lamma Island using Blender
+![Lamma Island using Blender](maps/day14/Twitter.png)
+
+Based on Klas Karlsson's [tutorial](https://www.youtube.com/watch?v=AJJNX243k9E&ab_channel=KlasKarlsson), using simple effects on Blender. Simulating the aerial view of Lamma Island on a late afternoon with air filled with aerosols.
+
+🗺 Data: Hong Kong 5m Resolution DTM by Lands Deparment, Google Satellite imagery
+
+🔨🔧 Tools and Steps: Refer to tutorial link above
+
+[Link to Tweet](https://twitter.com/clronniema/status/1457981290842497030)
